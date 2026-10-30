@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Cartella ed eventuali file zippati del dataset
+/tiny-imagenet/
+*.zip
+*.tar.gz
+
+# File temporanei di sistema e dati scaricati
+data/raw/
+data/processed/
